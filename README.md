@@ -5,11 +5,11 @@
 -->
 
 ### About Me
-- 💻 Software Developer with 10+ years of industry experience  
-- 🌐 Experienced in Web Application Development using modern frameworks and methodologies  
+- 💻 Software Developer with 10+ years of experience  
+- 🌐 Experienced in web application development using modern frameworks  
 - 🚀 Skilled in designing, developing, and maintaining scalable applications  
-- 🤝 Passionate about collaboration, mentoring, and sharing knowledge with technical and non-technical teams  
-- 🌱 Continuously learning new technologies and improving development workflows  
+- 🤝 Passionate about mentoring and sharing knowledge  
+- 🌱 Continuously learning new technologies  
 - 😄 Pronouns: He/Him  
 
 ---
@@ -20,7 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -36,6 +35,11 @@
 
 ### Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rogerdelima62093-rm&theme=radical)  
+
+---
+
+### Contribution Snake
+![Contribution Snake](https://github.com/rogerdelima62093-rm/rogerdelima62093-rm/raw/output/github-contribution-snake.gif)
 
 ---
 
