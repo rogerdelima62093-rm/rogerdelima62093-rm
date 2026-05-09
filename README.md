@@ -25,12 +25,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogerdelima62093-rm&show_icons=true&theme=radical)  
-
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ---
 
 ### Contribution Streak
@@ -39,7 +41,7 @@
 ---
 
 ### Contribution Snake
-![Contribution Snake](https://github.com/rogerdelima62093-rm/rogerdelima62093-rm/raw/output/github-contribution-snake.gif)
+![Contribution Snake](https://raw.githubusercontent.com/KewnsR/KewnsR/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
