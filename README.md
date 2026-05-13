@@ -46,11 +46,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
-### Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rogerdelima62093-rm&theme=radical)  
-
----
-
 ### Contribution Snake
 ![Contribution Snake](https://raw.githubusercontent.com/KewnsR/KewnsR/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
