@@ -1,6 +1,6 @@
 <div align="center">
 
-# Roger De Lima 👨‍💻
+# Roger Mark Ramos DeLima
 
 ### Senior Software Engineer • Full Stack Developer • Cloud & AI Engineer
 
@@ -8,7 +8,7 @@
 Building scalable applications, cloud-native systems, enterprise platforms, and AI-powered solutions.
 </p>
 
-<p align="center">
+<p align="center" style="font-size:20px">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Full+Stack+Developer;Cloud+Architecture+Engineer;AI+Integrated+Systems+Developer;Backend+%26+Microservices+Specialist" />
 </p>
 
@@ -168,14 +168,6 @@ Passionate about designing reliable systems, improving developer productivity, m
 - Automated CI/CD pipelines using GitHub Actions
 
 ---
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerdelima62093-rm&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdelima62093-rm&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
