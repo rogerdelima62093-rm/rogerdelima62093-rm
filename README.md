@@ -206,7 +206,7 @@ Passionate about designing reliable systems, improving developer productivity, m
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rogerdelima62093-rm/rogerdelima62093-rm/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
