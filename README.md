@@ -1,6 +1,6 @@
 <div align="center">
 
-# Roger Mark Ramos DeLima
+# Roger Mark Ramos Delima
 
 ### Senior Software Engineer • Full Stack Developer • Cloud & AI Engineer
 
@@ -19,6 +19,10 @@ Building scalable applications, cloud-native systems, enterprise platforms, and 
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rogerdelima62093-rm/guessing-game/refs/heads/main/src/c9b8da88-68ff-4790-a932-2fdff9b58628.png" />
+</p>
 
 # 🚀 About Me
 
@@ -97,6 +101,11 @@ Passionate about designing reliable systems, improving developer productivity, m
 - Chatbot Development
 
 ---
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rogerdelima62093-rm/guessing-game/refs/heads/main/src/c9b8da88-68ff-4790-a932-2fdff9b58627.png" />
+</p>
 
 # ⚙️ Tech Stack
 
@@ -234,11 +243,11 @@ I’m open to collaborating on:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/roger-mark-n-sese-766b21219" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:rogerdelima62093@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
