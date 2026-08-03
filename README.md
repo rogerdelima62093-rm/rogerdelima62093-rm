@@ -8,7 +8,6 @@
 Building scalable applications, cloud-native systems, enterprise platforms, and AI-powered solutions.
 </p>
 </div>
----
 
 # 🚀 About Me
 
