@@ -1,6 +1,6 @@
 <div align="center">
 
-# Roger Mark Ramos Delima
+# Filip Stikic
 
 ### Senior Software Engineer • Full Stack Developer • Cloud & AI Engineer
 
@@ -8,21 +8,7 @@
 Building scalable applications, cloud-native systems, enterprise platforms, and AI-powered solutions.
 </p>
 
-<p align="center" style="font-size:20px">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Full+Stack+Developer;Cloud+Architecture+Engineer;AI+Integrated+Systems+Developer;Backend+%26+Microservices+Specialist" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rogerdelima62093-rm&style=for-the-badge&color=blueviolet" />
-</p>
-
-</div>
-
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rogerdelima62093-rm/guessing-game/refs/heads/main/src/c9b8da88-68ff-4790-a932-2fdff9b58628.png" />
-</p>
 
 # 🚀 About Me
 
@@ -102,11 +88,6 @@ Passionate about designing reliable systems, improving developer productivity, m
 
 ---
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rogerdelima62093-rm/guessing-game/refs/heads/main/src/c9b8da88-68ff-4790-a932-2fdff9b58627.png" />
-</p>
-
 # ⚙️ Tech Stack
 
 ## Languages
@@ -175,32 +156,6 @@ Passionate about designing reliable systems, improving developer productivity, m
 - Developed full-stack architecture using React + FastAPI
 - Dockerized deployment workflows
 - Automated CI/CD pipelines using GitHub Actions
-
----
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogerdelima62093-rm&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rogerdelima62093-rm&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rogerdelima62093-rm&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
