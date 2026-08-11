@@ -11,66 +11,6 @@ Building scalable applications, cloud-native systems, enterprise platforms, and 
 
 ---
 
-# 🧠 Engineering Expertise
-
-## Backend Development
-- ASP.NET Core / .NET
-- Django / FastAPI
-- Node.js / Express.js / NestJS
-- RESTful API Architecture
-- GraphQL APIs
-- Authentication & Authorization
-- JWT / OAuth2
-- WebSocket Communication
-- Background Processing
-- Event-Driven Systems
-- Microservices Architecture
-- Distributed Systems
-
-## Frontend Development
-- React.js
-- Next.js
-- Angular
-- Vue.js
-- TypeScript
-- Tailwind CSS
-- Responsive UI/UX
-- SPA Architecture
-- State Management
-- Component-Based Design
-
-## Cloud & DevOps
-- AWS
-- Microsoft Azure
-- Docker
-- Kubernetes
-- GitHub Actions
-- CI/CD Pipelines
-- Linux Server Management
-- Nginx
-- Infrastructure Automation
-- Deployment Optimization
-
-## Database Technologies
-- PostgreSQL
-- MySQL
-- SQL Server
-- MongoDB
-- Redis
-- Database Design
-- Query Optimization
-- Caching Strategies
-
-## AI & Automation
-- OpenAI API
-- AI-integrated Applications
-- Prompt Engineering
-- Workflow Automation
-- AI Productivity Tools
-- Chatbot Development
-
----
-
 # ⚙️ Tech Stack
 
 ## Languages
@@ -97,49 +37,6 @@ Building scalable applications, cloud-native systems, enterprise platforms, and 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,linux,postman,jira" />
 </p>
-
----
-
-# 🏗️ Architecture & Engineering
-
-### Software Engineering Practices
-- Clean Architecture
-- SOLID Principles
-- Domain-Driven Design
-- Scalable System Design
-- Agile / Scrum Methodologies
-- Code Review & Mentorship
-- Performance Optimization
-- Secure Development Practices
-
-### Infrastructure & Deployment
-- Dockerized Applications
-- Cloud-native Deployments
-- CI/CD Automation
-- API Gateway Integration
-- Reverse Proxy Configuration
-- Production Monitoring
-- Scalable Backend Infrastructure
-
----
-
-# 📌 Featured Projects
-
-## 💳 Enterprise Financial Platform
-- Designed scalable transaction processing systems
-- Improved reconciliation performance and reliability
-- Developed distributed backend services using .NET & Azure
-
-## 🤖 AI Productivity Platform
-- Integrated AI-powered automation workflows
-- Built intelligent assistant features using OpenAI APIs
-- Implemented real-time communication systems
-
-## ☁️ Cloud-native SaaS Dashboard
-- Developed full-stack architecture using React + FastAPI
-- Dockerized deployment workflows
-- Automated CI/CD pipelines using GitHub Actions
-
 ---
 
 # 🐍 Contribution Snake
@@ -150,43 +47,19 @@ Building scalable applications, cloud-native systems, enterprise platforms, and 
 
 ---
 
-# 🌱 Currently Exploring
-
-- AI Engineering
-- LLM-integrated Applications
-- Kubernetes & DevOps
-- High-performance Backend Systems
-- Distributed Cloud Architectures
-- AI-assisted Developer Tools
-
----
-
-# 🤝 Open to Collaboration
-
-I’m open to collaborating on:
-- Full Stack Platforms
-- SaaS Applications
-- AI Projects
-- Backend Infrastructure
-- Cloud-native Systems
-- Open Source Contributions
-- Developer Productivity Tools
-
----
-
 # 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/rogerdelima62093-rm" target="_blank">
+<a href="https://github.com/filip-stikic-1110" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/roger-mark-n-sese-766b21219" target="_blank">
+<a href="https://www.linkedin.com/in/filip-stikic-294496427" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:rogerdelima62093@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="[mailto:rogerdelima62093@gmail.com](https://filiip-stikic-theta.vercel.app)">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=portfolio&logoColor=white"/>
 </a>
 </p>
 
