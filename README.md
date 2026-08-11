@@ -9,22 +9,6 @@ Building scalable applications, cloud-native systems, enterprise platforms, and 
 </p>
 </div>
 
-# 🚀 About Me
-
-Experienced Software Engineer with 6+ years of expertise in building scalable web applications, enterprise systems, cloud-native infrastructure, and AI-powered solutions.
-
-I specialize in:
-- Full Stack Development
-- Backend Engineering
-- Cloud Architecture
-- REST API & Microservices
-- DevOps & CI/CD
-- AI-integrated Applications
-- Performance Optimization
-- Distributed Systems
-
-Passionate about designing reliable systems, improving developer productivity, mentoring engineers, and continuously learning emerging technologies.
-
 ---
 
 # 🧠 Engineering Expertise
